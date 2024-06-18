@@ -1,4 +1,5 @@
 # First_Github_Demo
 First Demo Project
 <br>
-Author - Ayush Kumar MAurya
+Author - Ayush Kumar Maurya
+First Demo Project
